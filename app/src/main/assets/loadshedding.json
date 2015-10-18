@@ -1,0 +1,219 @@
+      {
+        "Schedule":[{
+            "Group": 1,
+            "Routine":[{
+              "Day": 1,
+              "Shift":[{
+                  "ID": 1,
+                  "StartTime": "09:00",
+                  "EndTime": "13:00"
+                },
+                {
+                  "ID": 2,
+                  "StartTime": "17:00",
+                  "EndTime": "21:00"
+                }
+              ]
+            },
+          {
+            "Day": 2,
+            "Shift": [
+              {
+                "ID": 1,
+                "StartTime": "11:00",
+                "EndTime": "15:00"
+              },
+              {
+                "ID": 2,
+                "StartTime": "20:00",
+                "EndTime": "23:00"
+              }
+            ]
+          },
+          {
+            "Day": 3,
+            "Shift": [
+              {
+                "ID": 1,
+                "StartTime": "10:00",
+                "EndTime": "14:00"
+              },
+              {
+                "ID": 2,
+                "StartTime": "18:00",
+                "EndTime": "22:00"
+              }
+            ]
+          },
+          {
+            "Day": 4,
+            "Shift": [
+              {
+                "ID": 1,
+                "StartTime": "08:00",
+                "EndTime": "11:00"
+              },
+              {
+                "ID": 2,
+                "StartTime": "17:00",
+                "EndTime": "20:00"
+              }
+            ]
+          },
+          {
+            "Day": 5,
+            "Shift": [
+              {
+                "ID": 1,
+                "StartTime": "07:00",
+                "EndTime": "10:00"
+              },
+              {
+                "ID": 2,
+                "StartTime": "15:00",
+                "EndTime": "18:00"
+              }
+            ]
+          },
+          {
+            "Day": 6,
+            "Shift": [
+              {
+                "ID": 1,
+                "StartTime": "06:00",
+                "EndTime": "09:00"
+              },
+              {
+                "ID": 2,
+                "StartTime": "14:00",
+                "EndTime": "17:00"
+              }
+            ]
+          },
+          {
+            "Day": 7,
+            "Shift": [
+              {
+                "ID": 1,
+                "StartTime": "06:00",
+                "EndTime": "08:00"
+              },
+              {
+                "ID": 2,
+                "StartTime": "13:00",
+                "EndTime": "17:00"
+              }
+            ]
+          }
+              ]
+          },
+          {
+            "Group": 2,
+            "Routine":[{
+              "Day": "Sunday",
+              "Shift":[{
+                "ID": 1,
+                "StartTime": "10:00 am",
+                "EndTime": "12:00pm"
+              },
+                {
+                  "ID": 2,
+                  "StartTime": "10:00 am",
+                  "EndTime": "12:00pm"
+                }
+              ]
+            },
+              {
+                "Day": "Monday",
+                "Shift": [
+                  {
+                    "ID": 1,
+                    "StartTime": "10:00 am",
+                    "EndTime": "12:00pm"
+                  },
+                  {
+                    "ID": 2,
+                    "StartTime": "10:00 am",
+                    "EndTime": "12:00pm"
+                  }
+                ]
+              },
+              {
+                "Day": "Tuesday",
+                "Shift": [
+                  {
+                    "ID": 1,
+                    "StartTime": "10:00 am",
+                    "EndTime": "12:00pm"
+                  },
+                  {
+                    "ID": 2,
+                    "StartTime": "10:00 am",
+                    "EndTime": "12:00pm"
+                  }
+                ]
+              },
+              {
+                "Day": "Wednesday",
+                "Shift": [
+                  {
+                    "ID": 1,
+                    "StartTime": "10:00 am",
+                    "EndTime": "12:00pm"
+                  },
+                  {
+                    "ID": 2,
+                    "StartTime": "10:00 am",
+                    "EndTime": "12:00pm"
+                  }
+                ]
+              },
+              {
+                "Day": "Thursday",
+                "Shift": [
+                  {
+                    "ID": 1,
+                    "StartTime": "10:00 am",
+                    "EndTime": "12:00pm"
+                  },
+                  {
+                    "ID": 2,
+                    "StartTime": "10:00 am",
+                    "EndTime": "12:00pm"
+                  }
+                ]
+              },
+              {
+                "Day": "Friday",
+                "Shift": [
+                  {
+                    "ID": 1,
+                    "StartTime": "10:00 am",
+                    "EndTime": "12:00pm"
+                  },
+                  {
+                    "ID": 2,
+                    "StartTime": "10:00 am",
+                    "EndTime": "12:00pm"
+                  }
+                ]
+              },
+              {
+                "Day": "Saturday",
+                "Shift": [
+                  {
+                    "ID": 1,
+                    "StartTime": "10:00 am",
+                    "EndTime": "12:00pm"
+                  },
+                  {
+                    "ID": 2,
+                    "StartTime": "10:00 am",
+                    "EndTime": "12:00 pm"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
